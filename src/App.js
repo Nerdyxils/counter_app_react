@@ -29,19 +29,9 @@ class App extends Component {
     })
   }
 
-  // colorChange() {
-  //   if (this.number < 0) {
-  //     this.style.color === 'red'
-  //   } else if (this.number > 0) {
-  //     this.style.color === 'green'
-  //   } else {
-  //     this.style.color === 'white'
-  //   }
-  // }
 
 
   render() { 
-    // {this.state.number < 0 ? this.state.style.color === 'red' : 'white'}
     return ( 
       <div className="main">
         <h1 className="title">Counter App</h1>
