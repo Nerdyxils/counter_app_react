@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Nerdyxils/counter_app_react/static/css/main.ac64a4d9.chunk.css",
+    "main.js": "/Nerdyxils/counter_app_react/static/js/main.e84994a4.chunk.js",
+    "main.js.map": "/Nerdyxils/counter_app_react/static/js/main.e84994a4.chunk.js.map",
+    "runtime-main.js": "/Nerdyxils/counter_app_react/static/js/runtime-main.18cc5673.js",
+    "runtime-main.js.map": "/Nerdyxils/counter_app_react/static/js/runtime-main.18cc5673.js.map",
+    "static/js/2.e5dd858e.chunk.js": "/Nerdyxils/counter_app_react/static/js/2.e5dd858e.chunk.js",
+    "static/js/2.e5dd858e.chunk.js.map": "/Nerdyxils/counter_app_react/static/js/2.e5dd858e.chunk.js.map",
+    "index.html": "/Nerdyxils/counter_app_react/index.html",
+    "static/css/main.ac64a4d9.chunk.css.map": "/Nerdyxils/counter_app_react/static/css/main.ac64a4d9.chunk.css.map",
+    "static/js/2.e5dd858e.chunk.js.LICENSE.txt": "/Nerdyxils/counter_app_react/static/js/2.e5dd858e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.18cc5673.js",
+    "static/js/2.e5dd858e.chunk.js",
+    "static/css/main.ac64a4d9.chunk.css",
+    "static/js/main.e84994a4.chunk.js"
+  ]
+}
